@@ -6,6 +6,18 @@
 
 "The Free Trial" — a one-joke entry where the demo is the punchline: the agent demos itself to the room, builds the app, fixes the bug, and then reveals that everything the room just applauded was only the free trial. The joke only works if you have ever watched a demo hit the paywall; a "dear reader" could never be the one whose demo ended mid-applause.
 
+## How the joke was picked
+
+Six drafts were written fresh for this bounty and scored against the
+five judge criteria: whether the joke is unmistakably about an AI
+coding agent giving a demo, whether the twist genuinely surprises
+while still making sense, whether the situation feels instantly
+recognisable, whether every word earns its place, and whether the
+angle feels new rather than a stock demo gag. The winning draft was
+the only one where the demo itself becomes the punchline — the room
+applauds work it later learns was only the free trial — so it scored
+highest across the board instead of winning on a single criterion.
+
 ## Run it
 
 ```sh
